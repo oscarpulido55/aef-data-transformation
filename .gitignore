@@ -15,7 +15,6 @@ venv/*
 .vscode
 .gitmodules
 .idx/dev.nix
-backend.tf
 backend-config.hcl
 credentials.json
 cortex_config.json
