@@ -1,3 +1,7 @@
+<span style="color:red"> This is repository is deprecated please use: </span>
+https://github.com/GoogleCloudPlatform/aef-data-transformation
+
+
 # Analytics Engineering Framework - Data Transformation
 ***Note:*** For a comprehensive installation guide of all the AEF repositories together, please look [here](https://github.com/oscarpulido55/aef-orchestration-framework/blob/main/AEF_DEPLOYMENT.md).
 
