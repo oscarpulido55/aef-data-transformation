@@ -1,4 +1,4 @@
-<span style="color:red"> This is repository is deprecated please use: </span>
+<span style="color:red"> This is repository is DEPRECATED please use: </span>
 https://github.com/GoogleCloudPlatform/aef-data-transformation
 
 
