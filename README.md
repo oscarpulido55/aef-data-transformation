@@ -1,5 +1,4 @@
-<span style="color:red"> This is repository is DEPRECATED please use: </span>
-https://github.com/GoogleCloudPlatform/aef-data-transformation
+### This is repository is DEPRECATED please use: https://github.com/GoogleCloudPlatform/aef-data-transformation
 
 
 # Analytics Engineering Framework - Data Transformation
